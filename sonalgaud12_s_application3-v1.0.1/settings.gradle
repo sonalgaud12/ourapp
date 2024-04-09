@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "sonalgaud12_s_application3"
